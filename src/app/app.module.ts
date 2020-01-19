@@ -18,7 +18,7 @@ import { IonicStorageModule } from '@ionic/storage';
 import { Pro } from '@ionic/pro';
 import { Injectable, Injector } from '@angular/core';
 
-Pro.init('3f8a3e18', {
+Pro.init('346cccb1', {
   appVersion: '0.0.1'
 });
 
